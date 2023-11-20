@@ -8,3 +8,5 @@ I assess that claim using the Basic Safety Message data from V2I pilots. Both pi
 The Tampba Bay sample data from [USDOT Open Data Portal](https://data.transportation.gov/Automobiles/Tampa-CV-Pilot-Basic-Safety-Message-BSM-Sample/nm7w-nvbm).
 
 The bottom line is that this data can be used to recreate individual trips contrary to the claims of the DOT.
+
+![alt](https://raw.githubusercontent.com/tmca43/connected-vehicle-deanonymization/main/full%20route.png)
