@@ -5,7 +5,7 @@ The U.S. Department of Transportation claims that vehicle-to-infrastructure (V2I
 
 In [this notebook](https://github.com/tmca43/connected-vehicle-deanonymization/blob/main/tampabay.ipynb), I assess that claim using the Basic Safety Message data from V2I pilots. Both pilots organized their data according to SAE 2735, an industry standard for vehicle communications.
 
-The Tampba Bay sample data from [USDOT Open Data Portal](https://data.transportation.gov/Automobiles/Tampa-CV-Pilot-Basic-Safety-Message-BSM-Sample/nm7w-nvbm).
+The Tampa Bay sample data is found on the [USDOT Open Data Portal](https://data.transportation.gov/Automobiles/Tampa-CV-Pilot-Basic-Safety-Message-BSM-Sample/nm7w-nvbm).
 
 The bottom line is that this data can be used to recreate individual trips contrary to the claims of the DOT.
 
